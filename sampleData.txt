@@ -1,0 +1,23 @@
+{
+"email": "romink@gmail.com",
+"imageUrl" : "https://bootdey.com/img/Content/avatar/avatar3.png",
+"jobTitle": "Developer",
+"name": "Romin Irani",
+"phone":"4081234567"
+}
+
+{
+"email": "Chris@gmail.com",
+"imageUrl" : "https://bootdey.com/img/Content/avatar/avatar2.png",
+"jobTitle": "UX/UI",
+"name": "Christopher Brown",
+"phone":"999484999"
+}
+
+{
+"email": "daniel@gmail.com",
+"imageUrl" : "https://bootdey.com/img/Content/avatar/avatar7.png",
+"jobTitle": "JavaScript",
+"name": "Daniel Cross",
+"phone":"395744479"
+}
