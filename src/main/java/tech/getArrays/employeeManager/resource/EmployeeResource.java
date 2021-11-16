@@ -9,7 +9,7 @@ import tech.getArrays.employeeManager.model.Employee;
 import tech.getArrays.employeeManager.service.EmployeeService;
 
 @RestController
-@CrossOrigin(origins = "https://pimentel32123.github.io/Employee-frontEnd",  allowedHeaders = "*")
+@CrossOrigin(origins = "https://pimentel32.github.io/Employee-frontEnd",  allowedHeaders = "*")
 @RequestMapping("/employee")
 public class EmployeeResource {
 	private final EmployeeService employeeService;
