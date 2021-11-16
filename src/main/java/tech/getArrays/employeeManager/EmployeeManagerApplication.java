@@ -20,7 +20,7 @@ public class EmployeeManagerApplication {
 	public CorsFilter corsFilter() {
 		CorsConfiguration corsConfiguration = new CorsConfiguration();
 		corsConfiguration.setAllowCredentials(true);
-		corsConfiguration.setAllowedOrigins(Arrays.asList("https://pimentel32.github.io/Employee-frontEnd"));
+		corsConfiguration.setAllowedOrigins(Arrays.asList("https://pimentel32123.github.io/Employee-frontEnd"));
 		corsConfiguration.setAllowedHeaders(Arrays.asList("Origin", "Access-Control-Allow-Origin", "Content-Type",
 				"Accept", "Authorization", "Origin, Accept", "X-Requested-With",
 				"Access-Control-Request-Method", "Access-Control-Request-Headers"));
