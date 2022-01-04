@@ -1,5 +1,6 @@
 package tech.getArrays.employeeManager.service;
 
+import javax.transaction.Transactional;
 import java.util.List;
 import java.util.UUID;
 
@@ -11,6 +12,7 @@ import tech.getArrays.employeeManager.model.Employee;
 import tech.getArrays.employeeManager.repo.EmployeeRepo;
 
 @Service
+@Transactional
 public class EmployeeService {
 	private final EmployeeRepo employeeRepo;
 	
